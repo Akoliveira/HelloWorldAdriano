@@ -1,0 +1,28 @@
+head{
+    background-color: blue;
+}
+body{
+    background-color:black;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 55px;
+}
+h1{
+    background-color: aqua;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 88px;
+}
+h2{
+    background-color: darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+}
+h3{
+    background-color: yellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 33px;
+}
+h4{
+    background-color: crimson;
+    font-family: fantasy;]
+    font-size: 18px;
+}
